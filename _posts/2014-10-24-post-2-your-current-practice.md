@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-10-24 09:06:10
 ---
-Go back to your blog and review your <a title="POST 1 – Getting Started" href="http://elearning.trubox.ca/topic/post-1-getting-started-2/" target="_blank" rel="noopener noreferrer">first post</a> for this course, then create a new post and record your thoughts on the following questions.
+Go back to your blog and review your <a title="POST 1 – Getting Started" href="http://elearning.trubox.ca/topic/post-1-getting-started-2/"  rel="noopener noreferrer">first post</a> for this course, then create a new post and record your thoughts on the following questions.
 <ol>
 	<li>How has your view of the effective practice changed now that you have read more about teaching presence?</li>
 	<li>In what ways did the effective practice that you identified show the characteristics of teaching presence?</li>

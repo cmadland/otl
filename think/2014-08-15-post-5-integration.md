@@ -21,7 +21,7 @@ Create a new post and discuss the following:
 	<li>What are 2-3 questions that you have as a result of this course? Identify ways that you can begin to answer those questions.</li>
 	<li>Identify 2-3 specific goals that you would like to achieve in light of what you have learned about cognitive presence, approaches to learning, and feedback;
 <ul>
-	<li>make sure that your goals are <a href="http://en.wikipedia.org/wiki/SMART_criteria" target="_blank" rel="noopener noreferrer">SMART</a>,</li>
+	<li>make sure that your goals are <a href="http://en.wikipedia.org/wiki/SMART_criteria"  rel="noopener noreferrer">SMART</a>,</li>
 	<li>identify strategies you intend to use in order to meet your goals.</li>
 </ul>
 </li>

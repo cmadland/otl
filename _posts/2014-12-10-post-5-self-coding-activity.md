@@ -57,7 +57,7 @@ The 'Quick Edit' view allows you to apply categories to posts using the checkbox
 
 &nbsp;
 
-Please categorize (code) each of your posts according to which phase of the critical inquiry model is demonstrated by that particular post. It could be that any given post fits into more than one category, in which case, apply both categories. The characteristics of each phase of the critical inquiry model are below (adapted from Vaughan, Cleveland-Innes, and Garrison[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press. Retrieved from <a href="http://www.aupress.ca/index.php/books/120229" target="_blank" rel="noopener noreferrer">http://www.aupress.ca/index.php/books/120229</a>[/note], pp. 75-76).
+Please categorize (code) each of your posts according to which phase of the critical inquiry model is demonstrated by that particular post. It could be that any given post fits into more than one category, in which case, apply both categories. The characteristics of each phase of the critical inquiry model are below (adapted from Vaughan, Cleveland-Innes, and Garrison[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press. Retrieved from <a href="http://www.aupress.ca/index.php/books/120229"  rel="noopener noreferrer">http://www.aupress.ca/index.php/books/120229</a>[/note], pp. 75-76).
 <ul>
 	<li>Triggering Event
 <ul>

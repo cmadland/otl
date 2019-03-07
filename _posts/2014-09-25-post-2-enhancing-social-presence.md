@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-09-25 15:58:34
 ---
-Look back at your entry for <a title="POST 1 – Getting Started" href="http://courses.olblogs.tru.ca/facdev/topic/post-1-getting-started/" target="_blank" rel="noopener noreferrer">Post 1</a> in this course.
+Look back at your entry for <a title="POST 1 – Getting Started" href="http://courses.olblogs.tru.ca/facdev/topic/post-1-getting-started/"  rel="noopener noreferrer">Post 1</a> in this course.
 
 Create a new post and
 <ul>

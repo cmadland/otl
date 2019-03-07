@@ -39,7 +39,7 @@ There should now be a menu item in your header that links to all of the posts th
 <h4>Post 3</h4>
 Create a new post and link to your Learning Activities Portfolio. You can do this by clicking the portfolio link in the menu, copying the URL and linking to that URL in your post.
 
-By the end of Lesson 2, you should have three entries in your portfolio, two of which should not be listed on the <a title="Instructor Strategies" href="http://elearning.trubox.ca/topic/instructor-strategies/" target="_blank" rel="noopener noreferrer">Instructor Strategies</a> topic.
+By the end of Lesson 2, you should have three entries in your portfolio, two of which should not be listed on the <a title="Instructor Strategies" href="http://elearning.trubox.ca/topic/instructor-strategies/"  rel="noopener noreferrer">Instructor Strategies</a> topic.
 
 Remember to add the category 'otl201' and the tag 'post 3'.
 

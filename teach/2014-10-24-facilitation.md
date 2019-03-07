@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-10-24 13:14:00
 ---
-Read chapter 3 of T<em>eaching in Blended Learning Environments</em>[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press. Retrieved from <a href="http://www.aupress.ca/index.php/books/120229" target="_blank" rel="noopener noreferrer">http://www.aupress.ca/index.php/books/120229</a>[/note].
+Read chapter 3 of T<em>eaching in Blended Learning Environments</em>[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press. Retrieved from <a href="http://www.aupress.ca/index.php/books/120229"  rel="noopener noreferrer">http://www.aupress.ca/index.php/books/120229</a>[/note].
 
 Facilitating a learning experience is at the very heart of building a community of inquiry. It is not enough to simply copy and paste lecture notes, or even to capture a lecture on video, and upload the results into a learning management system. Teachers are vital to the development of communities of inquiry.
 
@@ -27,12 +27,12 @@ We believe that modern advances in a few key technologies have opened the doors 
 
 Contrast that with a course like this, which is open on the web and built in a tool that allows and encourages ongoing work and reflection. Now, instead of whispering to ghosts, learners can actually interact with previous students. Even better than that, though, they can interact with <em>anyone</em> on the web!
 
-Great things happen when education is open and a <a href="http://off.sites.tru.ca/everyday-open-learning/" target="_blank" rel="noopener noreferrer">great example</a> is the student who posted to a course blog after he had finished the course because it seemed to him to be the <a href="http://courses.olblogs.tru.ca/phil238/living-in-the-past-living-in-the-future-living-in-the-present/" target="_blank" rel="noopener noreferrer">best place to share his thoughts</a>.
+Great things happen when education is open and a <a href="http://off.sites.tru.ca/everyday-open-learning/"  rel="noopener noreferrer">great example</a> is the student who posted to a course blog after he had finished the course because it seemed to him to be the <a href="http://courses.olblogs.tru.ca/phil238/living-in-the-past-living-in-the-future-living-in-the-present/"  rel="noopener noreferrer">best place to share his thoughts</a>.
 
 The student was re-reading a novel from the course and wanted to share some new insight. Shortly after doing so, he received a comment <em>from the author of the novel!</em> How likely is that to happen inside an LMS?
 
 Serendipitous learning moments like this one can't happen in an LMS and they are evidence that a CoI can be generated somewhat spontaneously in an asynchronous learning environment, if only we are willing to carefully design and expose the learning activities to the open web.
 
-As <a href="http://bavatuesdays.com/open-public-educational-publishing-platforms-4life/" target="_blank" rel="noopener noreferrer">Jim Groom</a> wrote in 2013,
+As <a href="http://bavatuesdays.com/open-public-educational-publishing-platforms-4life/"  rel="noopener noreferrer">Jim Groom</a> wrote in 2013,
 <blockquote>This shouldn’t be radical, this should be the norm.</blockquote>
 I would argue that the best way to promote a rich Community of Inquiry in an asynchronous learning environment is to design the environment to engage with the open web. There may well be a few high enrolment courses that have enough people continually registering that a community can be realized, but for a truly transformative and ongoing community, 'open' is necessary.

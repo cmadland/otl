@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-26 13:43:36
 ---
-The <a href="http://www.tru.ca/learning.html" target="_blank">Centre for Student Engagement and Learning Innovation</a> at TRU has taken seriously the institutional mandate to:
+The <a href="http://www.tru.ca/learning.html" >Centre for Student Engagement and Learning Innovation</a> at TRU has taken seriously the institutional mandate to:
 <blockquote>engage students in the quest for world citizenship through …cultural learning opportunities, in a respectful and inclusive environment that provides a better understanding and appreciation of our global community.[note]http://www.tru.ca/__shared/assets/2014-2019_StrategicPriorities_PDF31428.pdf[/note]</blockquote>
 The Centre offers a workshop titled <em>Intercultural Eyesing the Curriculum</em> to prepare faculty to increase their level of intercultural competence in their teaching practice.
 

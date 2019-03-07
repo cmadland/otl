@@ -10,7 +10,7 @@ published: true
 post_date: 2015-01-14 08:37:36
 ---
 <h3>Why WordPress?</h3>
-In her June 3, 2014 blog post, <a title="Blogging as Pedagogy" href="http://langwitches.org/blog/2014/06/03/blogging-as-pedagogy-facilitate-learning/" target="_blank"><em>Blogging as Pedagogy: Facilitate Learning,</em></a> <a title="Twitter" href="https://twitter.com/langwitches" target="_blank">Silvia Tolisano </a>highlights four learning activities supported by blogging:
+In her June 3, 2014 blog post, <a title="Blogging as Pedagogy" href="http://langwitches.org/blog/2014/06/03/blogging-as-pedagogy-facilitate-learning/" ><em>Blogging as Pedagogy: Facilitate Learning,</em></a> <a title="Twitter" href="https://twitter.com/langwitches" >Silvia Tolisano </a>highlights four learning activities supported by blogging:
 <ul>
 	<li>Reading</li>
 	<li>Writing</li>
@@ -27,7 +27,7 @@ It is important to note that the four learning activities supported by blogging 
 
 However, among the advantages of using WordPress as a platform for this course rather than an LMS are that WordPress allows for a wider reach and greater possibility of community engagement both during and after you have completed the course and you are able to control and retain ownership of your own content. Instead of logging into a 'secure', protected course space where your only audience is the instructor and a few others who may be taking the course at the same time, you will create and control your own space which can be as open or closed as you want it to be. By 'opening' your thoughts to as wide an audience as you feel comfortable, you have unlimited potential to build, share, and learn best practices with others.
 
-Blackstone and Harwood (<a href="https://www.academia.edu/469234/Pedagogical_blogging_for_university_courses" target="_blank">2010</a>) outline several points in a rationale for using blogging tools in university courses. Blogging:
+Blackstone and Harwood (<a href="https://www.academia.edu/469234/Pedagogical_blogging_for_university_courses" >2010</a>) outline several points in a rationale for using blogging tools in university courses. Blogging:
 <ol>
 	<li>encourages interaction outside 'the classroom' and beyond class time.</li>
 	<li>supports both individual and interpersonal interaction.</li>

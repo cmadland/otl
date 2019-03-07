@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-10-17 11:46:38
 ---
-In the previous two courses, <a title="think" href="http://courses.olblogs.tru.ca/facdev/courses/think/" target="_blank" rel="noopener noreferrer"><em>think</em></a> and <a title="engage" href="http://courses.olblogs.tru.ca/facdev/courses/engage/" target="_blank" rel="noopener noreferrer"><em>engage</em></a>, we explored the characteristics of <em>cognitive presence</em> and <em>social presence</em> in online communities of inquiry.
+In the previous two courses, <a title="think" href="http://courses.olblogs.tru.ca/facdev/courses/think/"  rel="noopener noreferrer"><em>think</em></a> and <a title="engage" href="http://courses.olblogs.tru.ca/facdev/courses/engage/"  rel="noopener noreferrer"><em>engage</em></a>, we explored the characteristics of <em>cognitive presence</em> and <em>social presence</em> in online communities of inquiry.
 
 This final course of the series will take you through an examination and application of <em>teaching presence</em> in a community of inquiry.
 <h4>Post 1</h4>
@@ -38,7 +38,7 @@ Now consider your example again and answer the following questions:
 Take a few minutes to record some of your thoughts on effective practices in a new blog post and please include a brief self-introduction.
 
 Add your post to the 'otl301' category and tag it with 'Post 1'.
-<p style="padding: 2px 6px 4px;color: #ffffff;background-color: #555555"><span style="color: #ffffff">This activity was originally designed by <a style="color: #ffffff" href="http://faculty.myrru.royalroads.ca/category/resources/rru-services/centre-teaching-and-educational-technologies-ctet" target="_blank" rel="noopener noreferrer">Royal Roads University Centre for Teaching and Educational Technologies</a> and has been modified and shared in accordance with the original <a style="color: #ffffff" href="http://oer.royalroads.ca/moodle/course/view.php?id=3" target="_blank" rel="noopener noreferrer">Creative Commons license </a><a style="color: #ffffff" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">(CC-BY-SA)</a><a style="color: #ffffff" href="http://oer.royalroads.ca/moodle/course/view.php?id=3" target="_blank" rel="noopener noreferrer">.</a></span></p>
+<p style="padding: 2px 6px 4px;color: #ffffff;background-color: #555555"><span style="color: #ffffff">This activity was originally designed by <a style="color: #ffffff" href="http://faculty.myrru.royalroads.ca/category/resources/rru-services/centre-teaching-and-educational-technologies-ctet"  rel="noopener noreferrer">Royal Roads University Centre for Teaching and Educational Technologies</a> and has been modified and shared in accordance with the original <a style="color: #ffffff" href="http://oer.royalroads.ca/moodle/course/view.php?id=3"  rel="noopener noreferrer">Creative Commons license </a><a style="color: #ffffff" href="http://creativecommons.org/licenses/by-sa/4.0/"  rel="noopener noreferrer">(CC-BY-SA)</a><a style="color: #ffffff" href="http://oer.royalroads.ca/moodle/course/view.php?id=3"  rel="noopener noreferrer">.</a></span></p>
 
 </div>
 </div>

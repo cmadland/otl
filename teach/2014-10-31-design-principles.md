@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-10-31 10:33:34
 ---
-Recall from <a title="Teaching Presence" href="http://elearning.trubox.ca/topic/teaching-presence/" target="_blank" rel="noopener noreferrer">lesson 1</a> that there are seven principles that guide the creation and sustenance of a Community of Inquiry. The first two of those principles are related to the first category of teaching presence and guide the design and organization processes.
+Recall from <a title="Teaching Presence" href="http://elearning.trubox.ca/topic/teaching-presence/"  rel="noopener noreferrer">lesson 1</a> that there are seven principles that guide the creation and sustenance of a Community of Inquiry. The first two of those principles are related to the first category of teaching presence and guide the design and organization processes.
 <h4>Principle 1: Plan for the creation of open communication and trust.</h4>
 According to Vaughan, Cleveland-Innes and Garrison[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry</em>. Athabasca: AU Press. Retrieved from http://www.aupress.ca/index.php/books/120229[/note], this principle is primarily focused on social presence in a course, but the process begins in the design phase and continues through the course as the instructor organizes learning activities in light of student needs and technological contingencies.
 <h4>Principle 2: Plan for critical reflection and discourse.</h4>

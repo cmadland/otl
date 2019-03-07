@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-10-31 15:52:10
 ---
-Recall from the '<a title="think" href="http://elearning.trubox.ca/courses/think/" target="_blank" rel="noopener noreferrer">think</a>' course that it is critical for learner assessment to be aligned with the intended outcomes identified in the course. Feel free to <a title="POST 3 – Constructive Alignment" href="http://elearning.trubox.ca/topic/post-3-constructive-alignment/" target="_blank" rel="noopener noreferrer">re-watch the video</a> to refresh your memory. We will now revisit this idea in the context of designing learning experiences for online communities of inquiry.
+Recall from the '<a title="think" href="http://elearning.trubox.ca/courses/think/"  rel="noopener noreferrer">think</a>' course that it is critical for learner assessment to be aligned with the intended outcomes identified in the course. Feel free to <a title="POST 3 – Constructive Alignment" href="http://elearning.trubox.ca/topic/post-3-constructive-alignment/"  rel="noopener noreferrer">re-watch the video</a> to refresh your memory. We will now revisit this idea in the context of designing learning experiences for online communities of inquiry.
 
 Constructive alignment[note]Biggs, J., &amp; Tang, C. (2011). <em>Teaching for quality learning at university: What the student does</em> (4th ed.). New York: Society for Research into Higher Education &amp; Open University Press. [/note] is a term Biggs and Tang use to refer to the fact that the idea is rooted in constructivist pedagogies where learners construct knowledge through learning activities and reflection on their own existing schemata. Further, assessment tasks must be aligned to what is intended to be learned.
 

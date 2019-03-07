@@ -11,11 +11,11 @@ post_date: 2014-08-06 09:02:09
 ---
 <h3>Blog Post 2</h3>
 <ol>
-	<li>Read the article <a title="Critical Thinking, Cognitive Presence, and Computer Conferencing in Distance Education" href="http://cde.athabascau.ca/coi_site/documents/Garrison_Anderson_Archer_CogPres_Final.pdf" target="_blank" rel="attachment wp-att-89 noopener noreferrer">Critical Thinking, Cognitive Presence, and Computer Conferencing in Distance Education</a>[note]Garrison, D. R., Anderson, T., &amp; Archer, W. (2001). <em>Critical thinking, cognitive presence, and computer conferencing in distance education.</em> American Journal of Distance Education, 15, 7-23. doi:10.1080/08923640109527071[/note].</li>
+	<li>Read the article <a title="Critical Thinking, Cognitive Presence, and Computer Conferencing in Distance Education" href="http://cde.athabascau.ca/coi_site/documents/Garrison_Anderson_Archer_CogPres_Final.pdf"  rel="attachment wp-att-89 noopener noreferrer">Critical Thinking, Cognitive Presence, and Computer Conferencing in Distance Education</a>[note]Garrison, D. R., Anderson, T., &amp; Archer, W. (2001). <em>Critical thinking, cognitive presence, and computer conferencing in distance education.</em> American Journal of Distance Education, 15, 7-23. doi:10.1080/08923640109527071[/note].</li>
 	<li>Create a new post and explore a couple of the following questions in relation to the idea of cognitive presence and quality learning experiences in higher education (please be concise):
 <ul>
 	<li>What do you know now that you did not know prior to starting the course?</li>
-	<li>What gaps or discrepancies do you notice between your ideas in <a href="http://elearning.trubox.ca/topic/getting-started/" target="_blank" rel="noopener noreferrer">Post 1</a> and what you have learned since then in Lesson 1?</li>
+	<li>What gaps or discrepancies do you notice between your ideas in <a href="http://elearning.trubox.ca/topic/getting-started/"  rel="noopener noreferrer">Post 1</a> and what you have learned since then in Lesson 1?</li>
 	<li>What questions would you like to explore on the topic of cognitive presence?</li>
 	<li>Provide an example of how you have seen effective cognitive presence modeled in online learning.</li>
 </ul>

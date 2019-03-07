@@ -11,7 +11,7 @@ post_date: 2014-12-23 11:12:19
 ---
 Your final post for this course is an opportunity to reflect on your learning journey through the course and to look ahead as you integrate your new knowledge into your teaching practice.
 
-You may choose to complete this post in one of a variety of ways. You may record and post a video, an audio podcast, a screencast, an annotated presentation, an infographic, <a href="http://sketchnotearmy.com/about/" target="_blank" rel="noopener noreferrer">sketchnotes</a>, or a regular, text-based blog post.
+You may choose to complete this post in one of a variety of ways. You may record and post a video, an audio podcast, a screencast, an annotated presentation, an infographic, <a href="http://sketchnotearmy.com/about/"  rel="noopener noreferrer">sketchnotes</a>, or a regular, text-based blog post.
 
 Topics to cover in your final post include, but are not limited to:
 <ul>

@@ -15,7 +15,7 @@ The video below describes the importance of constructive alignment between learn
 
 https://www.youtube.com/watch?t=11&amp;v=w6rx-GBBwVg
 <h3>POST 3</h3>
-Using either one of your own courses or an open course on the internet (<a href="https://www.coursera.org/courses" target="_blank" rel="noopener noreferrer">Coursera,</a> <a href="https://www.edx.org/course-list" target="_blank" rel="noopener noreferrer">EdX </a>or another source, preferably in your subject area), create a blog post in which you discuss the following:
+Using either one of your own courses or an open course on the internet (<a href="https://www.coursera.org/courses"  rel="noopener noreferrer">Coursera,</a> <a href="https://www.edx.org/course-list"  rel="noopener noreferrer">EdX </a>or another source, preferably in your subject area), create a blog post in which you discuss the following:
 <ol>
 	<li>What are the intended learning outcomes of the course? Do the learning outcomes reflect high-level cognitive skills or low-level skills (pay attention to the verbs)?</li>
 	<li>How is student learning assessed in the course (essays, quizzes, journals, machine-gradable tests, portfolios)?</li>

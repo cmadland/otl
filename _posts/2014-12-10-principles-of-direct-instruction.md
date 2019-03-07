@@ -21,7 +21,7 @@ Garrison[note]Garrison, D. R. (2011). <em>E-learning in the 21st century: A fram
 
 The task of moving learners through all four phases of the inquiry process is the overriding goal of teaching activities in the cognitive domain of the community of inquiry. This involves diagnosing and addressing misconceptions, providing essential content in a timely manner and providing cognitive structure to the content when necessary.
 
-The importance of addressing misconceptions was shown in the work of Derek Muller, who used <a href="http://youtu.be/eVtCO84MDj8?t=1m21s" target="_blank" rel="noopener noreferrer">video segments</a> to teach students about concepts in physics. Muller administered a pre-test on the concepts and they scored 6/26 on average. When students were shown videos that explained the same concepts in a clear and concise manner, students became more confident in their knowledge, they reported that the videos were easy to understand, yet they still performed quite poorly on the test afterwards, the average score was 6.3/26.
+The importance of addressing misconceptions was shown in the work of Derek Muller, who used <a href="http://youtu.be/eVtCO84MDj8?t=1m21s"  rel="noopener noreferrer">video segments</a> to teach students about concepts in physics. Muller administered a pre-test on the concepts and they scored 6/26 on average. When students were shown videos that explained the same concepts in a clear and concise manner, students became more confident in their knowledge, they reported that the videos were easy to understand, yet they still performed quite poorly on the test afterwards, the average score was 6.3/26.
 
 Another group of students were shown videos which highlighted common misconceptions about physics concepts and also showed the correct understanding. Students found the videos <em>difficult to understand and confusing</em>, they said that they had to <em>expend more mental effort</em> to understand the concepts, they were <em>less confident</em> in their answers, and they scored an average of 11/26.
 
@@ -47,7 +47,7 @@ Summative assessments are designed to measure what a student has learned at the 
 
 Clearly, learning in a community of inquiry should prioritize formative assessments as the goal of the learning experience should be to engage in learning activities, not just to pass a test.
 
-Vaughan, Cleveland-Innes, and Garrison[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press. Retrieved from <a href="http://www.aupress.ca/index.php/books/120229" target="_blank" rel="noopener noreferrer">http://www.aupress.ca/index.php/books/120229</a>[/note] (pp. 82-83) list 8 principles of effective assessment feedback:
+Vaughan, Cleveland-Innes, and Garrison[note]Vaughan, N., Cleveland-Innes, M., &amp; Garrison, D. (2013). <em>Teaching in blended learning environments: Creating and sustaining communities of inquiry.</em> Athabasca: AU Press. Retrieved from <a href="http://www.aupress.ca/index.php/books/120229"  rel="noopener noreferrer">http://www.aupress.ca/index.php/books/120229</a>[/note] (pp. 82-83) list 8 principles of effective assessment feedback:
 <blockquote>Good feedback:
 <ol>
 	<li>helps to clarify what good performance is (goals, criteria, standards)</li>

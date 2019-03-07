@@ -47,7 +47,7 @@ Ensure that learners know and understand key terms and concepts related to the l
 
 &nbsp;
 <h5>Further Reading</h5>
-<a href="http://ecampus.oregonstate.edu/online-education-trends/articles/374/" target="_blank" rel="noopener noreferrer">http://ecampus.oregonstate.edu/online-education-trends/articles/374/</a>
+<a href="http://ecampus.oregonstate.edu/online-education-trends/articles/374/"  rel="noopener noreferrer">http://ecampus.oregonstate.edu/online-education-trends/articles/374/</a>
 
 &nbsp;
 

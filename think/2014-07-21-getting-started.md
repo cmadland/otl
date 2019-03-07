@@ -12,15 +12,15 @@ post_date: 2014-07-21 14:36:32
 Before you continue, here is a short checklist of activities for you to complete before you get started with the primary content of the courses:
 <ul>
  	<li>register for a blog,</li>
- 	<li>work through some basic <a href="http://create.twu.ca/connect/resources-and-learning-activities/" target="_blank" rel="noopener noreferrer">WordPress resources</a>, in particular, please make sure you spend some time getting familiar with the logistics of the course and how to set up your blog. These resources are also linked in the menu at the bottom of each topic and lesson, under the heading 'WordPress Resources'.
+ 	<li>work through some basic <a href="http://create.twu.ca/connect/resources-and-learning-activities/"  rel="noopener noreferrer">WordPress resources</a>, in particular, please make sure you spend some time getting familiar with the logistics of the course and how to set up your blog. These resources are also linked in the menu at the bottom of each topic and lesson, under the heading 'WordPress Resources'.
 <ul>
- 	<li><a href="http://create.twu.ca/connect/participate/" target="_blank" rel="noopener noreferrer">How to Participate</a></li>
- 	<li><a href="http://create.twu.ca/connect/why-wordpress/" target="_blank" rel="noopener noreferrer">Why WordPress?</a></li>
- 	<li><a href="http://elearning.trubox.ca/understanding-wordpress/" target="_blank" rel="noopener noreferrer">Understanding WordPress</a></li>
+ 	<li><a href="http://create.twu.ca/connect/participate/"  rel="noopener noreferrer">How to Participate</a></li>
+ 	<li><a href="http://create.twu.ca/connect/why-wordpress/"  rel="noopener noreferrer">Why WordPress?</a></li>
+ 	<li><a href="http://elearning.trubox.ca/understanding-wordpress/"  rel="noopener noreferrer">Understanding WordPress</a></li>
  	<li>Ensure that you have set up at least three categories on your blog, OCL101, OCL201, and OCL301.</li>
 </ul>
 </li>
- 	<li><a href="http://create.twu.ca/connect/understanding-wordpress/" target="_blank" rel="noopener noreferrer">choose a theme</a> for your blog (or not, the default is fine),</li>
+ 	<li><a href="http://create.twu.ca/connect/understanding-wordpress/"  rel="noopener noreferrer">choose a theme</a> for your blog (or not, the default is fine),</li>
  	<li>install and activate any plugins that you would like to use.</li>
 </ul>
 If you are unfamiliar with WordPress, please do not hesitate to reach out! If you are spending more than 10 minutes or so stuck on a problem in WordPress, please contact me at colin.madland@twu.ca.
@@ -31,7 +31,7 @@ Before you get started on this activity, please take a few minutes to review <a 
 
 Next, please create a new post on your own blog, and introduce yourself. Keep in mind that your posts will be showing up on the <a href="http://create.twu.ca/connect/blog/">blog on this site</a>, so please make sure that each post has a unique and descriptive title.
 
-Your introduction could be an image created at wordle.net using text gathered from the following online searches and pasted into <a href="http://www.wordle.net/create" target="_blank" rel="noopener noreferrer">Wordle</a> (you may need to install or update <a href="http://java.com" target="_blank" rel="noopener noreferrer">Java</a> to get the tool to work):
+Your introduction could be an image created at wordle.net using text gathered from the following online searches and pasted into <a href="http://www.wordle.net/create"  rel="noopener noreferrer">Wordle</a> (you may need to install or update <a href="http://java.com"  rel="noopener noreferrer">Java</a> to get the tool to work):
 <ol>
  	<li>a description of your favourite vacation spot.</li>
  	<li>a synopsis of the last novel that you read.</li>
